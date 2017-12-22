@@ -1,4 +1,4 @@
-* Assumes that entry file is JavaScript
+* Assumes entry file is JavaScript
 * JavaScript files can import Reason files
 
 ## Install
