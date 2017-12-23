@@ -1,5 +1,5 @@
 .cache
 dist
-lib
+lib/bs
 node_modules
 .merlin
